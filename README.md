@@ -1,1 +1,2 @@
-# Cifar10-with-Vanilla-MLP
+# Cifar10-with-Basic Neural Network (PYTORCH)
+
